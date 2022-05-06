@@ -1,0 +1,21 @@
+.char-list{
+    width: 90vw;
+    max-width: 1170px;
+    margin: 5rem 25rem ;
+    display: grid;
+    gap: 2rem;
+  }
+  
+  .search{
+    /* position: absolute; */
+    top: 60px;
+    right:25px;
+}
+  @media screen and (min-width: 768px) {
+    .char-list{
+      grid-template-columns: repeat(2, 1fr);
+      align-items: start;
+    }
+  }
+  
+

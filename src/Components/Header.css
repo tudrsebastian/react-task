@@ -1,0 +1,24 @@
+.header-container{
+    position: relative;
+    display: flex;
+    height: 100px;
+    width: 100%;
+  
+}
+
+.btns {
+   
+    list-style: none;
+    display: inline-flex;
+    margin-top: 5%;
+   margin-left: 25%;
+   
+}
+ul li {
+    margin:40px;
+}
+.title {
+    position: absolute;
+   margin-top: 3%;
+    margin-left: 42% ;
+}

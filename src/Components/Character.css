@@ -1,0 +1,28 @@
+.card{
+    position: relative;
+width: 55%;
+box-sizing: border-box;
+background: #242424;
+border: 1px solid #FFFFFF;
+border-radius: 16px;
+}
+.card h3{
+    margin-right: 50%;
+    color:rgb(255, 255, 255)
+}
+.card p {
+    margin:auto 50% 5% auto ;
+    color: rgb(240, 240, 240);
+}
+.add {
+   
+    position: absolute;
+    left:95px;
+bottom:125px;
+
+
+}
+.add :hover {
+    color:#fffb00;
+    
+}
